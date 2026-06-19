@@ -1,13 +1,13 @@
 # YASH
-##PROFILE
+PROFILE
 
 Student Builder | AI Explorer | Future Entrepreneur
 
-##BIO
+BIO
 
 Building ideas into systems. Interested in AI, finance, automation, and creating products that scale. Learning fast, thinking long-term, and building for leverage.
 
-##KEY FEATURES
+KEY FEATURES
 
 • Entrepreneurial mindset
 • AI-first thinking
@@ -15,7 +15,7 @@ Building ideas into systems. Interested in AI, finance, automation, and creating
 • Strong curiosity and experimentation
 • Building for scale and impact
 
-##SPECIALISATION
+SPECIALISATION
 
 • AI concepts and experimentation
 • Stock analysis systems
@@ -23,7 +23,7 @@ Building ideas into systems. Interested in AI, finance, automation, and creating
 • Product ideation
 • Business strategy
 
-##KEY TRAITS & QUALITIES
+KEY TRAITS & QUALITIES
 
 • Ambitious
 • Future-focused
