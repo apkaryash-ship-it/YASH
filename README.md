@@ -1,48 +1,39 @@
 # YASH
-PROFILE
+# Hey there 👋
 
-Student Builder | AI Explorer | Future Entrepreneur
+Building ideas into systems.
 
-BIO
+I'm an SYJC student interested in AI, finance, automation, and building products that create scalable impact. I enjoy exploring how technology and business can work together to solve real-world problems.
 
-Building ideas into systems. Interested in AI, finance, automation, and creating products that scale. Learning fast, thinking long-term, and building for leverage.
+## 🚀 Currently Building
 
-KEY FEATURES
+### Orique
 
-• Entrepreneurial mindset
-• AI-first thinking
-• Product + business focus
-• Strong curiosity and experimentation
-• Building for scale and impact
+A project focused on turning ideas into scalable systems and products.
 
-SPECIALISATION
+### JARVIS-style Stock Analyzer
 
-• AI concepts and experimentation
-• Stock analysis systems
-• Automation thinking
-• Product ideation
-• Business strategy
-
-KEY TRAITS & QUALITIES
-
-• Ambitious
-• Future-focused
-• Curious learner
-• Strategic thinker
-## 🛠 Currently Building
-
-* Orique
-* JARVIS-style Stock Analyzer
+An AI-inspired stock analysis assistant designed to provide insights and support smarter decision-making.
 
 ## 🌱 Currently Learning
 
-* AI concepts
-* Automation
-* Product thinking
+* AI concepts and applications
+* Automation thinking
+* Product development
+* Finance + technology
+* Building systems from ideas
+
+## 💡 Mindset
+
+* Learn fast
+* Build consistently
+* Think long-term
+* Create value at scale
 
 ## 🎯 Long-Term Vision
 
-Build products and systems that create large-scale impact.
+Build products and systems that can influence millions of people and create meaningful impact.
 
-• Builder mentality
-• Persistent and growth-driven
+
+* LinkedIn: Coming soon
+* Email: Coming soon
