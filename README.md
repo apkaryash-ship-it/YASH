@@ -1,13 +1,13 @@
 # YASH
-PROFILE
+##PROFILE
 
 Student Builder | AI Explorer | Future Entrepreneur
 
-BIO
+##BIO
 
 Building ideas into systems. Interested in AI, finance, automation, and creating products that scale. Learning fast, thinking long-term, and building for leverage.
 
-KEY FEATURES
+##KEY FEATURES
 
 • Entrepreneurial mindset
 • AI-first thinking
@@ -15,7 +15,7 @@ KEY FEATURES
 • Strong curiosity and experimentation
 • Building for scale and impact
 
-SPECIALISATION
+##SPECIALISATION
 
 • AI concepts and experimentation
 • Stock analysis systems
@@ -23,11 +23,26 @@ SPECIALISATION
 • Product ideation
 • Business strategy
 
-KEY TRAITS & QUALITIES
+##KEY TRAITS & QUALITIES
 
 • Ambitious
 • Future-focused
 • Curious learner
 • Strategic thinker
+## 🛠 Currently Building
+
+* Orique
+* JARVIS-style Stock Analyzer
+
+## 🌱 Currently Learning
+
+* AI concepts
+* Automation
+* Product thinking
+
+## 🎯 Long-Term Vision
+
+Build products and systems that create large-scale impact.
+
 • Builder mentality
 • Persistent and growth-driven
